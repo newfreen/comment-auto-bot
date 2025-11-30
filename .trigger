@@ -1,0 +1,1 @@
+This file is used to trigger the setup-labels workflow.
